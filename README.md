@@ -1,6 +1,7 @@
 # GestionHotel
 ![Diagrama de clases de gestion Hotelaria](https://github.com/PacchaDavid/GestionHotel/assets/166522885/1c29466b-1751-4031-89e8-d72fd7253913)
 
+        Proceso de Implementacion a un Lenguaje de Programacion 
 Creacion de un nuevo proyecto utilizando pychar ya que trabajaremos empleando el framework Django
 ![Captura de pantalla 2024-06-03 232247](https://github.com/PacchaDavid/GestionHotel/assets/166523336/c78b6b0d-564b-4817-83f8-0882947abe00)
 
